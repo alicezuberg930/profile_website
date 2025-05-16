@@ -17,14 +17,14 @@ export default function HomePage() {
             Gia nghĩa resort
           </Link>
         </li>
-        <li>
+        {/* <li>
           <Link
             href="/docs/gia-nghia"
             className="text-fd-foreground font-semibold underline"
           >
             Kaiwin
           </Link>
-        </li>
+        </li>   */}
       </ul>
     </main>
   );
