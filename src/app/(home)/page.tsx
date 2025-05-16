@@ -19,7 +19,7 @@ export default function HomePage() {
         </li>
         <li>
           <Link
-            href="/docs/gia-nghia"
+            href="/docs/future-life"
             className="text-fd-foreground font-semibold underline"
           >
             Profile Future Life
