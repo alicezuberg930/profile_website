@@ -11,20 +11,21 @@ export default function HomePage() {
       <ul className='list -disc'>
         <li>
           <Link
+            href="/docs/future-life"
+            className="text-fd-foreground font-semibold underline"
+          >
+            Profile Future Life
+          </Link>
+        </li>
+
+        <li>
+          <Link
             href="/docs/gia-nghia"
             className="text-fd-foreground font-semibold underline"
           >
             Gia nghĩa resort
           </Link>
         </li>
-        <li>
-          <Link
-            href="/docs/future-life"
-            className="text-fd-foreground font-semibold underline"
-          >
-            Profile Future Life
-          </Link>
-        </li>  
       </ul>
     </main>
   );
